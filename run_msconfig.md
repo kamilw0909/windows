@@ -1,3 +1,0 @@
-- zarządzenie bootowaniem
-- usługi działające w tle
-- w zakładce **narzędzia** są wszystkie toolsy do zarzadzania systemem
